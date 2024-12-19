@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "miggy2",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1734637947294,
+    "databaseType": "",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ZTU5NmU4MmUyMGY5Y2M1YWRiMjVjYzM3MTU3NDdjZTI5N2M4ZWZlMzQxMDYwNjZiYzM0ZjU1MDQzODRhMjA5YjQxZjY5MmVhZDdkYjM2N2NjMWFkYjc0MzliYTZlNjYzMDE5ZGQwYjJhYjAzMTc5NWVkYTYwYTMwZDcwMzZjNmY=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": null,
+    "websocket": null
+  }
+}
